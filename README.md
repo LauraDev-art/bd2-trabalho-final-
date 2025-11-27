@@ -1,7 +1,7 @@
 # bd2-trabalho-final-
 descrição 
 Descrição do domínio (2–3 parágrafos).
-Como executar os scripts (ordem recomendada).
+Como executar os scripts (ordem lrecomendada).
 Dependências (versão do MySQL) e configurações.
 Glossário de tabelas e campos relevantes.
 Decisões de modelagem (ex.: por que separou RESERVA e LOCACAO).
