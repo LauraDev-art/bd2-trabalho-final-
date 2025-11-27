@@ -1,4 +1,5 @@
 # bd2-trabalho-final-
+```
 `├──` modelo-logico/
 `│ └──` diagrama-er.pdf|png 
 `├──` modelo-fisico/ 
@@ -15,3 +16,4 @@
 ├── 06_view.sql 
 │ └── 07_procedure_function.sql
 └── README.md
+```
