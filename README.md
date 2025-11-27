@@ -1,7 +1,7 @@
 # bd2-trabalho-final-
-├── modelo-logico/
-│ └── diagrama-er.pdf|png 
-├── modelo-fisico/ 
+`├──` modelo-logico/
+`│ └──` diagrama-er.pdf|png 
+`├──` modelo-fisico/ 
 │ └── 01_ddl_create.sql 
 ├── evolucao-esquema/ 
 ├── 02_ddl_alter.sql 
